@@ -24,93 +24,49 @@ namespace task4
             int numz = int.Parse(numero3);
 
             if (numx > numy)
-
             {
-
                 if (numx > numz)
-
                 {
-
                     if (numy > numz)
-
                     {
-
                         Console.WriteLine($"Luvut pienimmästä isoimpaan: {numz} {numy} {numx}");
-
                         Console.ReadKey();
-
                     }
-
                     else
-
                     {
-
                         Console.WriteLine($"Luvut pienimmästä isoimpaan: {numy} {numz} {numx}");
-
                         Console.ReadKey();
-
                     }
-
                 }
-
                 else
-
                 {
-
                     Console.WriteLine($"Luvut pienimmästä isoimpaan: {numy} {numx} {numz}");
-
                     Console.ReadKey();
-
                 }
-
             }
-
             else
-
             {
-
                 if (numy > numz)
-
                 {
-
                     if (numx > numz)
-
                     {
-
                         Console.WriteLine($"Luvut pienimmästä isoimpaan: {numz} {numx} {numy}");
-
                         Console.ReadKey();
-
                     }
-
                     else
-
                     {
-
                         Console.WriteLine($"Luvut pienimmästä isoimpaan: {numx} {numz} {numy}");
-
                         Console.ReadKey();
-
                     }
-
                 }
-
                 else
-
                 {
-
                     Console.WriteLine($"Luvut pienimmästä isoimpaan: {numx} {numy} {numz}");
-
                     Console.ReadKey();
-
                 }
-
             }
-
         }
-
     }
-
 }
 
 
