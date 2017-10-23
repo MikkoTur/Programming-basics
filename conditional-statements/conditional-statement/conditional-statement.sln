@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task1", "conditional-statement\task1.csproj", "{EDD0BFA3-4E79-46E2-89FC-2B7C5834920A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "conditional-statement\Task1.csproj", "{EDD0BFA3-4E79-46E2-89FC-2B7C5834920A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task2", "task2\task2.csproj", "{475DA793-E132-4D32-9E65-21C6F0D45C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "task2\Task2.csproj", "{475DA793-E132-4D32-9E65-21C6F0D45C2E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task3", "task3\task3.csproj", "{7C6165CF-51E2-48B1-886D-C75C11206D59}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task4", "task4\task4.csproj", "{DD48954B-55A4-48CA-A4BF-535674CDC0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task4", "task4\Task4.csproj", "{DD48954B-55A4-48CA-A4BF-535674CDC0F9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loop_example", "Task 5\loop_example.csproj", "{43D2EEC5-B865-4395-91B6-5DA21BA25CEE}"
 EndProject
@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task11", "funktioEsim\Task1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 6", "Task 6\Task 6.csproj", "{580F0247-8CAC-4BD1-B7F9-07A56A2E5EDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 7", "Task 7\Task 7.csproj", "{8CD6A839-30F6-4F1C-B641-6D2723269B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task7", "Task 7\Task7.csproj", "{8CD6A839-30F6-4F1C-B641-6D2723269B59}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funktio teht1", "funktio teht1\funktio teht1.csproj", "{8262FBCA-83FD-44AB-986D-032594C02955}"
 EndProject
@@ -30,6 +30,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.1", "Task3.1\Task3.1.csproj", "{7237A2C7-28DC-42E1-AF5A-8448804DE0FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.2", "Task3.2\Task3.2.csproj", "{58D75BFE-1F6D-4580-B980-9EAEEA26D5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.3", "Task3.3\Task3.3.csproj", "{C2E40FFD-86E5-4913-9F7F-8D4ED75AC6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.4", "Task4.4\Task3.4.csproj", "{75CD404B-035C-4BAB-9CDA-31485904B6F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{58D75BFE-1F6D-4580-B980-9EAEEA26D5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D75BFE-1F6D-4580-B980-9EAEEA26D5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58D75BFE-1F6D-4580-B980-9EAEEA26D5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E40FFD-86E5-4913-9F7F-8D4ED75AC6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E40FFD-86E5-4913-9F7F-8D4ED75AC6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E40FFD-86E5-4913-9F7F-8D4ED75AC6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E40FFD-86E5-4913-9F7F-8D4ED75AC6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CD404B-035C-4BAB-9CDA-31485904B6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD404B-035C-4BAB-9CDA-31485904B6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD404B-035C-4BAB-9CDA-31485904B6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD404B-035C-4BAB-9CDA-31485904B6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
