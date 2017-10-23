@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loop_example", "Task 5\loop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 2.1", "Task 2.1\Task 2.1.csproj", "{828F1A56-4242-4E59-AD10-EE1E5622145F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funktioEsim", "funktioEsim\funktioEsim.csproj", "{0870B7BB-AEDF-47EE-B632-2064BAEA31C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task11", "funktioEsim\Task11.csproj", "{0870B7BB-AEDF-47EE-B632-2064BAEA31C2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 6", "Task 6\Task 6.csproj", "{580F0247-8CAC-4BD1-B7F9-07A56A2E5EDA}"
 EndProject
