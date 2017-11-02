@@ -39,11 +39,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3.5", "Task3.5\Task3.5.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3.6", "Task3.6\Task3.6.csproj", "{1069CF76-7F75-4B45-9F5F-19C3300E978B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funktio1.2", "Funktio1.2\Funktio1.2.csproj", "{3992E724-F018-49C6-BCF0-EBEEE937C414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funktio1.2", "Funktio1.2\Funktio1.2.csproj", "{3992E724-F018-49C6-BCF0-EBEEE937C414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funktio1.3", "Funktio1.3\Funktio1.3.csproj", "{EAF4841A-818B-4BE2-A7F7-B0727F25EED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funktio1.3", "Funktio1.3\Funktio1.3.csproj", "{EAF4841A-818B-4BE2-A7F7-B0727F25EED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funktio1.4", "Funktio1.4\Funktio1.4.csproj", "{BF9E2783-DC0E-4DCE-85EF-844084E2F99C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funktio1.4", "Funktio1.4\Funktio1.4.csproj", "{BF9E2783-DC0E-4DCE-85EF-844084E2F99C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tähtitask", "Tähtitask\Tähtitask.csproj", "{52C2869A-8F69-4572-BA9B-D22BE3E76C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taulukko1", "Taulukko1\Taulukko1.csproj", "{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{BF9E2783-DC0E-4DCE-85EF-844084E2F99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF9E2783-DC0E-4DCE-85EF-844084E2F99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF9E2783-DC0E-4DCE-85EF-844084E2F99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C2869A-8F69-4572-BA9B-D22BE3E76C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C2869A-8F69-4572-BA9B-D22BE3E76C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C2869A-8F69-4572-BA9B-D22BE3E76C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C2869A-8F69-4572-BA9B-D22BE3E76C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
