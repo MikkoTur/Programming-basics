@@ -49,13 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tähtitask", "Tähtitask\T�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taulukko1", "Taulukko1\Taulukko1.csproj", "{828AC5DE-ED17-4DA3-A09B-7EB7D0571618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItseArv1", "ItseArv1\ItseArv1.csproj", "{D8652F6D-82EA-44B7-85EB-B00EBC8174B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItseArv1", "ItseArv1\ItseArv1.csproj", "{D8652F6D-82EA-44B7-85EB-B00EBC8174B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItseArv2", "ItseArv2\ItseArv2.csproj", "{88005163-E48E-41C7-BF3C-A05CA49C2526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItseArv2", "ItseArv2\ItseArv2.csproj", "{88005163-E48E-41C7-BF3C-A05CA49C2526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItseArv3", "ItseArv3\ItseArv3.csproj", "{C5593BC4-D7ED-45CF-BDC5-CC7C0CC03374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItseArv3", "ItseArv3\ItseArv3.csproj", "{C5593BC4-D7ED-45CF-BDC5-CC7C0CC03374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottoteht", "Lottoteht\Lottoteht.csproj", "{E7E256CB-E9E6-46E3-87B5-F214CB760791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lottoteht", "Lottoteht\Lottoteht.csproj", "{E7E256CB-E9E6-46E3-87B5-F214CB760791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1Taulukkoharjoitus", "3.Taulukkoharjoitus\3.1Taulukkoharjoitus.csproj", "{9BAD363E-DBB1-4728-9A16-FADFB690DF72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{E7E256CB-E9E6-46E3-87B5-F214CB760791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E256CB-E9E6-46E3-87B5-F214CB760791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E256CB-E9E6-46E3-87B5-F214CB760791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAD363E-DBB1-4728-9A16-FADFB690DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAD363E-DBB1-4728-9A16-FADFB690DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAD363E-DBB1-4728-9A16-FADFB690DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAD363E-DBB1-4728-9A16-FADFB690DF72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
