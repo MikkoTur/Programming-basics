@@ -15,7 +15,7 @@ namespace _3._2Taulukkoharjoitus
             {
                 for (int y = 0; y < 20; y++)
                 {
-                    arrayNumber[i, y] = rnd.Next(0, 20);
+                    arrayNumber[i, y] = rnd.Next(0, 100);
                     if (arrayNumber[i, y] < 10)
                     {
                         Console.WriteLine($"[{i},{y}] = 0{arrayNumber[i, y]}");
